@@ -1,0 +1,6 @@
+[submodule "alpos_API"]
+	path = alpos_API
+	url = https://github.com/abdelhak-belah/alpos_API.git
+[submodule "alpos_dashboard"]
+	path = alpos_dashboard
+	url = https://github.com/abdelhak-belah/alpos_dashboard.git
